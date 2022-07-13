@@ -32,6 +32,8 @@ p {
   padding: 15px;
   font-family: Helvetica;
   color: white;
+  font-weight: bolder;
+  text-align: justify;
 }
 
 /* Simple Responsive Framework. */
@@ -43,7 +45,7 @@ p {
 @media (min-width: 992px) {
   .col-lg-4{
     float: left;
-    margin: 1%;   
+    margin: 1.5%;   
     background-color: darkgray;
     border: 1px black solid;
   }
